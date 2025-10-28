@@ -1,4 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/sassoftware/sassoftware.r-universe.dev
 	branch = HEAD
+[submodule "sasctl"]
+	path = sasctl
+	url = https://github.com/sassoftware/r-sasctl
+[submodule "swat"]
+	path = swat
+	url = https://github.com/sassoftware/R-swat
