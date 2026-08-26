@@ -1,0 +1,10 @@
+[
+  {
+    "package": "sasctl",
+    "releasetag": true
+  },
+  {
+    "package": "socketR",
+    "releasetag": true
+  }
+]
