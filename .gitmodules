@@ -9,7 +9,7 @@
 [submodule "socketR"]
 	path = socketR
 	url = https://github.com/sassoftware/socketr
-	branch = 1.0.1-release
+	branch = 1.0.2-release
 [submodule "swat"]
 	path = swat
 	url = https://github.com/sassoftware/R-swat
