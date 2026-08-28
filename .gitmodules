@@ -5,11 +5,11 @@
 [submodule "sasctl"]
 	path = sasctl
 	url = https://github.com/sassoftware/r-sasctl
-	branch = 0.8.2
+	branch = 0.8.4
 [submodule "socketR"]
 	path = socketR
 	url = https://github.com/sassoftware/socketr
-	branch = 1.0.3-release
+	branch = 1.0.4-release
 [submodule "swat"]
 	path = swat
 	url = https://github.com/sassoftware/R-swat
